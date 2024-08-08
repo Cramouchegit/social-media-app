@@ -70,7 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 1. Clone the repository:
 
     ```bash
-    https://github.com/Cramouchegit/social-media-app
+    https://github.com/Cramouchegit/social-media-app.git
     ```
 
 2. Navigate to the project directory:
